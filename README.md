@@ -59,4 +59,11 @@ To get started with Trip Amaze, follow these steps:
    ```bash
    cd backend
    npm install
+   npm start
    
+### Backend Setup
+2. Navigate to the `frontend` directory:
+   ```bash
+   cd frontend
+   npm install
+   npm start
