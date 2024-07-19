@@ -69,4 +69,4 @@ To get started with Trip Amaze, follow these steps:
    npm start
 
 
-This `README.md` provides a professional ending and includes author information to give proper credit. Adjust the [GitHub Profile](https://github.com/MihirDomadiya) link if you have a different URL or additional contact information.
+Adjust the [GitHub Profile](https://github.com/MihirDomadiya) link if you have a different URL or additional contact information.
